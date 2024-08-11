@@ -1,5 +1,5 @@
 <template>
-    <div class="pa4 flex flex-row space-between">
+    <div class="footer pa4 flex flex-row space-between">
         <div>
             <p>STAR Laces</p>
             <p>Trans owned & operated since 2018.</p>
